@@ -1,0 +1,7 @@
+datetime: 2023-03-26 14:24:28.779705 
+function name: <function flat_generator at 0x00000281ED743E20> 
+value: <generator object flat_generator at 0x00000281EDC753F0> 
+args: [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]] {}datetime: 2023-03-26 14:24:54.086785 
+function name: <function flat_generator at 0x0000024DB6E03E20> 
+value: <generator object flat_generator at 0x0000024DB7761A80> 
+args: [['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]] {}
